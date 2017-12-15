@@ -1,4 +1,4 @@
-function ming_validate_yolo
+function mAP_voc2007
 
 % change this path if you install the VOC code elsewhere
 addpath([cd '/VOCcode']);
